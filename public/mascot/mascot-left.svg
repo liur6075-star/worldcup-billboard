@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240" height="240" viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="120" cy="120" r="100" fill="#FF2442"/>
+  <circle cx="120" cy="120" r="74" fill="white"/>
+  <text x="120" y="105" text-anchor="middle" dominant-baseline="middle" font-size="52" font-family="sans-serif">🐮</text>
+  <text x="120" y="158" text-anchor="middle" dominant-baseline="middle" 
+    fill="#FF2442" font-size="18" font-weight="bold" font-family="sans-serif">薯队长</text>
+</svg>

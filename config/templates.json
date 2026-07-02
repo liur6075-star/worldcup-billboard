@@ -1,0 +1,178 @@
+[
+  {
+    "id": "guangzhou",
+    "pointName": "广州正佳万豪酒店双LED",
+    "city": "广州",
+    "image": "/templates/guangzhou.svg",
+    "replaceSlots": [
+      { "id": 1, "x": 180, "y": 280, "width": 130, "height": 160, "rotation": 0 },
+      { "id": 2, "x": 540, "y": 250, "width": 120, "height": 150, "rotation": 0 },
+      { "id": 3, "x": 820, "y": 270, "width": 125, "height": 155, "rotation": 0 }
+    ],
+    "mascotSlot": { "x": 950, "y": 60, "width": 120, "height": 120 }
+  },
+  {
+    "id": "hangzhou",
+    "pointName": "杭州西湖天幕户外LED广告巨屏",
+    "city": "杭州",
+    "image": "/templates/hangzhou.svg",
+    "replaceSlots": [
+      { "id": 1, "x": 420, "y": 310, "width": 120, "height": 150, "rotation": 0 },
+      { "id": 2, "x": 650, "y": 290, "width": 115, "height": 145, "rotation": 0 }
+    ],
+    "mascotSlot": { "x": 900, "y": 80, "width": 120, "height": 120 }
+  },
+  {
+    "id": "changsha",
+    "pointName": "长沙国金1988互动超屏",
+    "city": "长沙",
+    "image": "/templates/changsha.svg",
+    "replaceSlots": [
+      { "id": 1, "x": 200, "y": 300, "width": 135, "height": 165, "rotation": 0 },
+      { "id": 2, "x": 480, "y": 280, "width": 130, "height": 160, "rotation": 0 },
+      { "id": 3, "x": 760, "y": 290, "width": 128, "height": 158, "rotation": 0 }
+    ],
+    "mascotSlot": { "x": 30, "y": 60, "width": 120, "height": 120 }
+  },
+  {
+    "id": "chengdu_taikoo",
+    "pointName": "成都太古里盈嘉赢家裙楼外墙LED",
+    "city": "成都",
+    "image": "/templates/chengdu_taikoo.svg",
+    "replaceSlots": [
+      { "id": 1, "x": 300, "y": 320, "width": 125, "height": 155, "rotation": 0 },
+      { "id": 2, "x": 580, "y": 300, "width": 120, "height": 150, "rotation": 0 }
+    ],
+    "mascotSlot": { "x": 920, "y": 70, "width": 120, "height": 120 }
+  },
+  {
+    "id": "chengdu_chunxi",
+    "pointName": "成都春熙路银石广场户外LED",
+    "city": "成都",
+    "image": "/templates/chengdu_chunxi.svg",
+    "replaceSlots": [
+      { "id": 1, "x": 250, "y": 290, "width": 130, "height": 160, "rotation": 0 },
+      { "id": 2, "x": 500, "y": 270, "width": 125, "height": 155, "rotation": 0 },
+      { "id": 3, "x": 750, "y": 285, "width": 122, "height": 152, "rotation": 0 }
+    ],
+    "mascotSlot": { "x": 40, "y": 50, "width": 120, "height": 120 }
+  },
+  {
+    "id": "wuhan",
+    "pointName": "武汉江汉路地铁C出口三联书店",
+    "city": "武汉",
+    "image": "/templates/wuhan.svg",
+    "replaceSlots": [
+      { "id": 1, "x": 350, "y": 300, "width": 120, "height": 150, "rotation": 0 },
+      { "id": 2, "x": 620, "y": 280, "width": 118, "height": 148, "rotation": 0 }
+    ],
+    "mascotSlot": { "x": 930, "y": 75, "width": 120, "height": 120 }
+  },
+  {
+    "id": "chongqing",
+    "pointName": "重庆观音桥商圈网红地标大屏",
+    "city": "重庆",
+    "image": "/templates/chongqing.svg",
+    "replaceSlots": [
+      { "id": 1, "x": 160, "y": 310, "width": 130, "height": 160, "rotation": 0 },
+      { "id": 2, "x": 420, "y": 290, "width": 125, "height": 155, "rotation": 0 },
+      { "id": 3, "x": 680, "y": 300, "width": 128, "height": 158, "rotation": 0 },
+      { "id": 4, "x": 860, "y": 285, "width": 120, "height": 150, "rotation": 0 }
+    ],
+    "mascotSlot": { "x": 30, "y": 55, "width": 120, "height": 120 }
+  },
+  {
+    "id": "dalian",
+    "pointName": "大连中央大道吾悦广场巨幕屏",
+    "city": "大连",
+    "image": "/templates/dalian.svg",
+    "replaceSlots": [
+      { "id": 1, "x": 290, "y": 305, "width": 125, "height": 155, "rotation": 0 },
+      { "id": 2, "x": 560, "y": 285, "width": 120, "height": 150, "rotation": 0 }
+    ],
+    "mascotSlot": { "x": 910, "y": 65, "width": 120, "height": 120 }
+  },
+  {
+    "id": "shenyang",
+    "pointName": "沈阳盛京MAX大屏",
+    "city": "沈阳",
+    "image": "/templates/shenyang.svg",
+    "replaceSlots": [
+      { "id": 1, "x": 200, "y": 295, "width": 130, "height": 162, "rotation": 0 },
+      { "id": 2, "x": 470, "y": 275, "width": 125, "height": 155, "rotation": 0 },
+      { "id": 3, "x": 740, "y": 288, "width": 122, "height": 152, "rotation": 0 }
+    ],
+    "mascotSlot": { "x": 35, "y": 60, "width": 120, "height": 120 }
+  },
+  {
+    "id": "qingdao",
+    "pointName": "青岛万象城商场大屏1号门",
+    "city": "青岛",
+    "image": "/templates/qingdao.svg",
+    "replaceSlots": [
+      { "id": 1, "x": 380, "y": 310, "width": 120, "height": 150, "rotation": 0 },
+      { "id": 2, "x": 640, "y": 295, "width": 118, "height": 148, "rotation": 0 }
+    ],
+    "mascotSlot": { "x": 920, "y": 70, "width": 120, "height": 120 }
+  },
+  {
+    "id": "xian",
+    "pointName": "西安曲江大悦城双屏",
+    "city": "西安",
+    "image": "/templates/xian.svg",
+    "replaceSlots": [
+      { "id": 1, "x": 220, "y": 300, "width": 128, "height": 158, "rotation": 0 },
+      { "id": 2, "x": 500, "y": 280, "width": 125, "height": 155, "rotation": 0 },
+      { "id": 3, "x": 770, "y": 292, "width": 120, "height": 150, "rotation": 0 }
+    ],
+    "mascotSlot": { "x": 940, "y": 58, "width": 120, "height": 120 }
+  },
+  {
+    "id": "shenzhen",
+    "pointName": "深圳湾万象城巨幕LED屏",
+    "city": "深圳",
+    "image": "/templates/shenzhen.svg",
+    "replaceSlots": [
+      { "id": 1, "x": 160, "y": 285, "width": 135, "height": 165, "rotation": 0 },
+      { "id": 2, "x": 450, "y": 265, "width": 130, "height": 160, "rotation": 0 },
+      { "id": 3, "x": 720, "y": 278, "width": 128, "height": 158, "rotation": 0 },
+      { "id": 4, "x": 900, "y": 270, "width": 122, "height": 152, "rotation": 0 }
+    ],
+    "mascotSlot": { "x": 30, "y": 45, "width": 120, "height": 120 }
+  },
+  {
+    "id": "beijing",
+    "pointName": "北京首都机场大屏",
+    "city": "北京",
+    "image": "/templates/beijing.svg",
+    "replaceSlots": [
+      { "id": 1, "x": 310, "y": 295, "width": 125, "height": 155, "rotation": 0 },
+      { "id": 2, "x": 580, "y": 275, "width": 120, "height": 150, "rotation": 0 }
+    ],
+    "mascotSlot": { "x": 930, "y": 68, "width": 120, "height": 120 }
+  },
+  {
+    "id": "shanghai_hongqiao",
+    "pointName": "上海虹桥机场大屏",
+    "city": "上海",
+    "image": "/templates/shanghai_hongqiao.svg",
+    "replaceSlots": [
+      { "id": 1, "x": 190, "y": 305, "width": 130, "height": 160, "rotation": 0 },
+      { "id": 2, "x": 460, "y": 285, "width": 125, "height": 155, "rotation": 0 },
+      { "id": 3, "x": 730, "y": 298, "width": 122, "height": 152, "rotation": 0 }
+    ],
+    "mascotSlot": { "x": 38, "y": 55, "width": 120, "height": 120 }
+  },
+  {
+    "id": "shanghai_pudong",
+    "pointName": "上海浦东机场大屏",
+    "city": "上海",
+    "image": "/templates/shanghai_pudong.svg",
+    "replaceSlots": [
+      { "id": 1, "x": 270, "y": 298, "width": 128, "height": 158, "rotation": 0 },
+      { "id": 2, "x": 540, "y": 278, "width": 123, "height": 153, "rotation": 0 },
+      { "id": 3, "x": 800, "y": 290, "width": 120, "height": 150, "rotation": 0 }
+    ],
+    "mascotSlot": { "x": 940, "y": 62, "width": 120, "height": 120 }
+  }
+]
